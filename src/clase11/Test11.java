@@ -1,7 +1,4 @@
-
-
-import Clase10.Predicator;
-import clase11.Venta;
+package clase11;
 
 import java.time.Month;
 import java.util.ArrayList;
@@ -12,7 +9,7 @@ import java.util.function.Consumer;
 import java.util.function.Function;
 import java.util.stream.Stream;
 
-public class Main{
+public class Test11{
     public static  void main(String[] args) {
 
         int skipValue = 6;
